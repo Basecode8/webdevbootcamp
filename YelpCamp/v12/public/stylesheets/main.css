@@ -1,0 +1,19 @@
+#commentInfo, #titleInfo {
+ display: flex;
+}
+
+.deleteForm {
+ display: inline;
+}
+
+.left {
+ display: inline-block;
+}
+
+.fillRight {
+ width: 100%;
+}
+
+.img-thumbnail {
+ padding: 0;
+}
