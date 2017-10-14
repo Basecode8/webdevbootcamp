@@ -13,12 +13,12 @@
    <div class="card">
     <img class="card-image-top w-100" src="<%= campground.image %>">
     <div class="card-body">
-    <div class="titleInfo">
-     <h4 class="card-title left"><%= campground.name %></h4>
-     <div class="d-inline-flex justify-content-end fillRight">
-      <span><%= campground.price %></span>
+     <div id="titleInfo">
+      <h4 class="card-title left"><%= campground.name %></h4>
+      <div class="d-inline-flex justify-content-end fillRight">
+       <span>$<%= campground.price %>/night</span>
+      </div>
      </div>
-    </div>
      
  
      <p class="card-text"><%= campground.description %></p>

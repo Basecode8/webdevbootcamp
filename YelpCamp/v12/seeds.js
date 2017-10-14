@@ -9,7 +9,7 @@ var mongoose   = require("mongoose"),
        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lobortis erat. Sed vulputate massa ultricies sapien commodo mattis. Maecenas ac consequat tellus. Mauris sagittis posuere mauris, id aliquet ante vehicula quis. Etiam elit neque, pulvinar eget laoreet sit amet, vestibulum et tellus. Pellentesque hendrerit felis eget consequat hendrerit. Duis finibus lorem quis enim lobortis, vel fermentum orci tristique. Nam suscipit, augue sit amet lacinia hendrerit, ex tortor aliquam dolor, quis cursus arcu nulla quis felis. Nulla eget tellus et massa tempus varius. Nulla tincidunt finibus velit, vitae fringilla libero.",
        price: "9.00",
        author: {
-        id: new mongoose.Types.ObjectId("59da8bc8e3aadf2aca6e961d"),
+        id: new mongoose.Types.ObjectId("59dbf000c11cd52516d7a2b4"),
         username: "Homer"
        }
       },
@@ -19,7 +19,7 @@ var mongoose   = require("mongoose"),
        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lobortis erat. Sed vulputate massa ultricies sapien commodo mattis. Maecenas ac consequat tellus. Mauris sagittis posuere mauris, id aliquet ante vehicula quis. Etiam elit neque, pulvinar eget laoreet sit amet, vestibulum et tellus. Pellentesque hendrerit felis eget consequat hendrerit. Duis finibus lorem quis enim lobortis, vel fermentum orci tristique. Nam suscipit, augue sit amet lacinia hendrerit, ex tortor aliquam dolor, quis cursus arcu nulla quis felis. Nulla eget tellus et massa tempus varius. Nulla tincidunt finibus velit, vitae fringilla libero.",
        price: "9.00",
        author: {
-        id: new mongoose.Types.ObjectId("59da8bc8e3aadf2aca6e961d"),
+        id: new mongoose.Types.ObjectId("59dbf000c11cd52516d7a2b4"),
         username: "Homer"
        }
       },
@@ -29,7 +29,7 @@ var mongoose   = require("mongoose"),
        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id lobortis erat. Sed vulputate massa ultricies sapien commodo mattis. Maecenas ac consequat tellus. Mauris sagittis posuere mauris, id aliquet ante vehicula quis. Etiam elit neque, pulvinar eget laoreet sit amet, vestibulum et tellus. Pellentesque hendrerit felis eget consequat hendrerit. Duis finibus lorem quis enim lobortis, vel fermentum orci tristique. Nam suscipit, augue sit amet lacinia hendrerit, ex tortor aliquam dolor, quis cursus arcu nulla quis felis. Nulla eget tellus et massa tempus varius. Nulla tincidunt finibus velit, vitae fringilla libero.",
        price: "9.00",
        author: {
-        id: new mongoose.Types.ObjectId("59da8bc8e3aadf2aca6e961d"),
+        id: new mongoose.Types.ObjectId("59dbf000c11cd52516d7a2b4"),
         username: "Homer"
        }
       }
@@ -59,7 +59,7 @@ function seedDB() {
        {
         text: "This place is great, but I wish there was internet",
         author: {
-         id: new mongoose.Types.ObjectId("59da8bc8e3aadf2aca6e961d"),
+         id: new mongoose.Types.ObjectId("59dbf000c11cd52516d7a2b4"),
          username: "Homer"
         }
        },
